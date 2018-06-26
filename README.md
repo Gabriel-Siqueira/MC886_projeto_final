@@ -1,2 +1,3 @@
 # MC886_projeto_final
-Projeto final da diciplina de aprendizado de maquinatema: predição do preço do petroleo.
+Projeto final da diciplina de aprendizado de maquina
+*tema:* predição do preço do petroleo.
